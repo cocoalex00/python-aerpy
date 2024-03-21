@@ -179,8 +179,8 @@ class AEData:
             size    = initialsize
 
             time     = np.empty(size, dtype=np.int64)
-            special  = np.empty(size, dtype=np.bool)
-            polarity = np.empty(size, dtype=np.bool)
+            special  = np.empty(size, dtype=bool)
+            polarity = np.empty(size, dtype=bool)
             xpos     = np.empty(size, dtype=np.int16)
             ypos     = np.empty(size, dtype=np.int16)
             offset   = 0
