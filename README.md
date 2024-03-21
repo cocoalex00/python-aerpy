@@ -3,7 +3,7 @@
 A library for reading ".aedat" files for logging outputs from
 [DVS event-based cameras](https://inivation.com/dvs/).
 
-Fork - When opening old datasets like [DVS128 Gestures](https://paperswithcode.com/dataset/dvs128-gesture-dataset) most libraries seem to be too modern. This library was the most compact that I could find/edit to my needs.
+Fork - When opening old datasets like [DVS128 Gestures](https://paperswithcode.com/dataset/dvs128-gesture-dataset) most libraries seem to be too modern. This repo was the most compact that I could find/edit to my needs.
 
 # How to install
 
